@@ -1,0 +1,2 @@
+#include <iostream>
+#usingnamespace std;
